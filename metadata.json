@@ -1,0 +1,5 @@
+{
+  "name": "NOXA",
+  "description": "Privacy-first, open-source, advertisement-free anonymous messaging application.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
